@@ -1,0 +1,58 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;1122;0.0
+Termination (unknown);-;0;1122;0.0
+Cable (PILC, 3 cores, belted);24;-;-;0.0
+Joint (unknown);-;24;1098;24.0
+Cable (PILC, 3 cores, belted);133;-;-;24.0
+Termination (unknown);-;157;965;157.0
+RMU;-;157;965;157.0
+Termination (unknown);-;157;965;157.0
+Cable (PILC, 3 cores, belted);113;-;-;157.0
+Joint (oil);-;270;852;270.0
+Cable (PILC, 3 cores, belted);23;-;-;270.0
+Joint (oil);-;293;829;293.0
+Cable (PILC, 3 cores, belted);70;-;-;293.0
+Joint (oil);-;363;759;363.0
+Cable (PILC, 3 cores, belted);48;-;-;363.0
+Joint (unknown);-;411;711;411.0
+Cable (PILC, 3 cores, belted);36;-;-;411.0
+Joint (unknown);-;447;675;447.0
+Cable (PILC, 3 cores, belted);8;-;-;447.0
+Termination (unknown);-;455;667;455.0
+RMU;-;455;667;455.0
+Termination (unknown);-;455;667;455.0
+Cable (PILC, 3 cores, belted);12;-;-;455.0
+Joint (unknown);-;467;655;467.0
+Cable (PILC, 3 cores, belted);59;-;-;467.0
+Joint (unknown);-;526;596;526.0
+Cable (PILC, 3 cores, belted);15;-;-;526.0
+Joint (heat shrink);-;541;581;541.0
+Cable (XLPE, 3 cores, common earth screen);10;-;-;541.0
+Joint (heat shrink);-;551;571;551.0
+Cable (PILC, 3 cores, belted);36;-;-;551.0
+Joint (unknown);-;587;535;587.0
+Cable (PILC, 3 cores, belted);94;-;-;587.0
+Termination (unknown);-;681;441;681.0
+RMU;-;681;441;681.0
+Termination (unknown);-;681;441;681.0
+Cable (PILC, 3 cores, belted);4;-;-;681.0
+Joint (unknown);-;685;437;685.0
+Cable (PILC, 3 cores, belted);69;-;-;685.0
+Joint (unknown);-;754;368;754.0
+Cable (PILC, 3 cores, belted);78;-;-;754.0
+Termination (unknown);-;832;290;832.0
+RMU;-;832;290;832.0
+Termination (unknown);-;832;290;832.0
+Cable (PILC, 3 cores, belted);35;-;-;832.0
+Joint (unknown);-;867;255;867.0
+Cable (PILC, 3 cores, belted);27;-;-;867.0
+Joint (oil);-;894;228;894.0
+Cable (PILC, 3 cores, belted);100;-;-;894.0
+Joint (oil);-;994;128;994.0
+Cable (PILC, 3 cores, belted);50;-;-;994.0
+Joint (unknown);-;1044;78;1044.0
+Cable (PILC, 3 cores, belted);40;-;-;1044.0
+Joint (unknown);-;1084;38;1084.0
+Cable (PILC, 3 cores, belted);38;-;-;1084.0
+Termination (unknown);-;1122;0;1122.0
+RMU;-;1122;0;1122.0

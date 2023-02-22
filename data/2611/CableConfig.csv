@@ -1,0 +1,42 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;4839;0.0
+Termination (unknown);-;0;4839;0.0
+Cable (PILC, 3 cores, belted);2386;-;-;0.0
+Termination (unknown);-;2386;2453;2386.0
+RMU;-;2386;2453;2386.0
+Termination (unknown);-;2386;2453;2386.0
+Cable (PILC, 3 cores, belted);246;-;-;2386.0
+Joint (oil);-;2632;2207;2632.0
+Cable (PILC, 3 cores, belted);7;-;-;2632.0
+Joint (oil);-;2639;2200;2639.0
+Cable (PILC, 3 cores, belted);92;-;-;2639.0
+Joint (oil);-;2731;2108;2731.0
+Cable (PILC, 3 cores, belted);330;-;-;2731.0
+Joint (heat shrink);-;3061;1778;3061.0
+Cable (XLPE, 3 cores, common earth screen);26;-;-;3061.0
+Joint (heat shrink);-;3087;1752;3087.0
+Cable (PILC, 3 cores, belted);51;-;-;3087.0
+Joint (oil);-;3138;1701;3138.0
+Cable (PILC, 3 cores, belted);197;-;-;3138.0
+Joint (oil);-;3335;1504;3335.0
+Cable (PILC, 3 cores, belted);17;-;-;3335.0
+Joint (oil);-;3352;1487;3352.0
+Cable (PILC, 3 cores, belted);338;-;-;3352.0
+Joint (oil);-;3690;1149;3690.0
+Cable (PILC, 3 cores, belted);9;-;-;3690.0
+Joint (oil);-;3699;1140;3699.0
+Cable (PILC, 3 cores, belted);345;-;-;3699.0
+Joint (oil);-;4044;795;4044.0
+Cable (PILC, 3 cores, belted);351;-;-;4044.0
+Joint (oil);-;4395;444;4395.0
+Cable (PILC, 3 cores, belted);82;-;-;4395.0
+Joint (oil);-;4477;362;4477.0
+Cable (PILC, 3 cores, belted);65;-;-;4477.0
+Joint (oil);-;4542;297;4542.0
+Cable (PILC, 3 cores, belted);201;-;-;4542.0
+Joint (oil);-;4743;96;4743.0
+Cable (PILC, 3 cores, belted);29;-;-;4743.0
+Joint (heat shrink);-;4772;67;4772.0
+Cable (XLPE, 3 cores, common earth screen);67;-;-;4772.0
+Termination (unknown);-;4839;0;4839.0
+RMU;-;4839;0;4839.0

@@ -1,0 +1,44 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;1278;0.0
+Termination (unknown);-;0;1278;0.0
+Cable (PILC, 3 cores, belted);4;-;-;0.0
+Joint (unknown);-;4;1274;4.0
+Cable (PILC, 3 cores, belted);349;-;-;4.0
+Joint (heat shrink);-;353;925;353.0
+Cable (PILC, 3 cores, belted);78;-;-;353.0
+Joint (heat shrink);-;431;847;431.0
+Cable (XLPE, 3 cores, common earth screen);3;-;-;431.0
+Joint (heat shrink);-;434;844;434.0
+Cable (PILC, 3 cores, belted);123;-;-;434.0
+Termination (unknown);-;557;721;557.0
+RMU;-;557;721;557.0
+Termination (unknown);-;557;721;557.0
+Cable (PILC, 3 cores, belted);216;-;-;557.0
+Joint (silicone fluid);-;773;505;773.0
+Cable (XLPE, 3 cores, common earth screen);55;-;-;773.0
+Joint (silicone fluid);-;828;450;828.0
+Cable (PILC, 3 cores, belted);3;-;-;828.0
+Termination (unknown);-;831;447;831.0
+RMU;-;831;447;831.0
+Termination (unknown);-;831;447;831.0
+Cable (PILC, 3 cores, belted);3;-;-;831.0
+Joint (silicone fluid);-;834;444;834.0
+Cable (XLPE, 3 cores, common earth screen);8;-;-;834.0
+Joint (silicone fluid);-;842;436;842.0
+Cable (PILC, 3 cores, belted);19;-;-;842.0
+Joint (unknown);-;861;417;861.0
+Cable (PILC, 3 cores, belted);45;-;-;861.0
+Joint (unknown);-;906;372;906.0
+Cable (PILC, 3 cores, belted);2;-;-;906.0
+Joint (unknown);-;908;370;908.0
+Cable (PILC, 3 cores, belted);28;-;-;908.0
+Joint (silicone fluid);-;936;342;936.0
+Cable (XLPE, 1 core);47;-;-;936.0
+Joint (silicone fluid);-;983;295;983.0
+Cable (PILC, 3 cores, belted);28;-;-;983.0
+Joint (unknown);-;1011;267;1011.0
+Cable (PILC, 3 cores, belted);124;-;-;1011.0
+Joint (unknown);-;1135;143;1135.0
+Cable (PILC, 3 cores, belted);143;-;-;1135.0
+Termination (unknown);-;1278;0;1278.0
+RMU;-;1278;0;1278.0

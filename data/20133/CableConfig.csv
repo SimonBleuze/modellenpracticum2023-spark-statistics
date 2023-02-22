@@ -1,0 +1,52 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;1271;0.0
+Termination (unknown);-;0;1271;0.0
+Cable (PILC, 3 cores, belted);21;-;-;0.0
+Joint (heat shrink);-;21;1250;21.0
+Cable (HPTE, 3 cores, common earth screen);6;-;-;21.0
+Joint (heat shrink);-;27;1244;27.0
+Cable (PILC, 3 cores, belted);6;-;-;27.0
+Joint (resin);-;33;1238;33.0
+Cable (PILC, 3 cores, belted);34;-;-;33.0
+Joint (unknown);-;67;1204;67.0
+Cable (PILC, 3 cores, belted);54;-;-;67.0
+Termination (unknown);-;121;1150;121.0
+RMU;-;121;1150;121.0
+Termination (unknown);-;121;1150;121.0
+Cable (PILC, 3 cores, belted);55;-;-;121.0
+Joint (unknown);-;176;1095;176.0
+Cable (PILC, 3 cores, belted);41;-;-;176.0
+Joint (resin);-;217;1054;217.0
+Cable (PILC, 3 cores, belted);112;-;-;217.0
+Joint (oil);-;329;942;329.0
+Cable (PILC, 3 cores, belted);87;-;-;329.0
+Joint (oil);-;416;855;416.0
+Cable (PILC, 3 cores, belted);66;-;-;416.0
+Joint (oil);-;482;789;482.0
+Cable (PILC, 3 cores, belted);22;-;-;482.0
+Joint (cold shrink);-;504;767;504.0
+Cable (XLPE, 3 cores, common earth screen);119;-;-;504.0
+Termination (unknown);-;623;648;623.0
+RMU;-;623;648;623.0
+Termination (unknown);-;623;648;623.0
+Cable (XLPE, 3 cores, common earth screen);133;-;-;623.0
+Joint (cold shrink);-;756;515;756.0
+Cable (PILC, 3 cores, belted);42;-;-;756.0
+Joint (heat shrink);-;798;473;798.0
+Cable (PILC, 3 cores, belted);88;-;-;798.0
+Joint (heat shrink);-;886;385;886.0
+Cable (PILC, 3 cores, belted);32;-;-;886.0
+Joint (oil);-;918;353;918.0
+Cable (PILC, 3 cores, belted);22;-;-;918.0
+Joint (heat shrink);-;940;331;940.0
+Cable (PILC, 3 cores, belted);23;-;-;940.0
+Joint (oil);-;963;308;963.0
+Cable (PILC, 3 cores, belted);73;-;-;963.0
+Joint (oil);-;1036;235;1036.0
+Cable (PILC, 3 cores, belted);6;-;-;1036.0
+Joint (oil);-;1042;229;1042.0
+Cable (PILC, 3 cores, belted);220;-;-;1042.0
+Joint (heat shrink);-;1262;9;1262.0
+Cable (XLPE, 3 cores, common earth screen);9;-;-;1262.0
+Termination (unknown);-;1271;0;1271.0
+RMU;-;1271;0;1271.0

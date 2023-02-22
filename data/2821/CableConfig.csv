@@ -1,0 +1,94 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;4459;0.0
+Termination (unknown);-;0;4459;0.0
+Cable (PILC, 3 cores, belted);49;-;-;0.0
+Joint (heat shrink);-;49;4410;49.0
+Cable (XLPE, 3 cores, common earth screen);11;-;-;49.0
+Joint (heat shrink);-;60;4399;60.0
+Cable (PILC, 3 cores, belted);83;-;-;60.0
+Joint (oil);-;143;4316;143.0
+Cable (PILC, 3 cores, belted);24;-;-;143.0
+Joint (oil);-;167;4292;167.0
+Cable (PILC, 3 cores, belted);96;-;-;167.0
+Joint (resin);-;263;4196;263.0
+Cable (PILC, 3 cores, belted);66;-;-;263.0
+Joint (resin);-;329;4130;329.0
+Cable (PILC, 3 cores, belted);50;-;-;329.0
+Joint (unknown);-;379;4080;379.0
+Cable (XLPE, 3 cores, common earth screen);28;-;-;379.0
+Joint (unknown);-;407;4052;407.0
+Cable (PILC, 3 cores, belted);218;-;-;407.0
+Joint (oil);-;625;3834;625.0
+Cable (PILC, 3 cores, belted);54;-;-;625.0
+Joint (oil);-;679;3780;679.0
+Cable (PILC, 3 cores, belted);54;-;-;679.0
+Joint (oil);-;733;3726;733.0
+Cable (XLPE, 3 cores, common earth screen);17;-;-;733.0
+Termination (unknown);-;750;3709;750.0
+RMU;-;750;3709;750.0
+Termination (unknown);-;750;3709;750.0
+Cable (XLPE, 3 cores, common earth screen);16;-;-;750.0
+Joint (oil);-;766;3693;766.0
+Cable (PILC, 3 cores, belted);189;-;-;766.0
+Termination (unknown);-;955;3504;955.0
+RMU;-;955;3504;955.0
+Termination (unknown);-;955;3504;955.0
+Cable (PILC, 3 cores, belted);314;-;-;955.0
+Joint (oil);-;1269;3190;1269.0
+Cable (PILC, 3 cores, belted);341;-;-;1269.0
+Joint (resin);-;1610;2849;1610.0
+Cable (PILC, 3 cores, belted);136;-;-;1610.0
+Joint (oil);-;1746;2713;1746.0
+Cable (PILC, 3 cores, belted);14;-;-;1746.0
+Joint (oil);-;1760;2699;1760.0
+Cable (PILC, 3 cores, belted);28;-;-;1760.0
+Joint (resin);-;1788;2671;1788.0
+Cable (PILC, 3 cores, belted);37;-;-;1788.0
+Termination (unknown);-;1825;2634;1825.0
+RMU;-;1825;2634;1825.0
+Termination (unknown);-;1825;2634;1825.0
+Cable (PILC, 3 cores, belted);39;-;-;1825.0
+Joint (resin);-;1864;2595;1864.0
+Cable (PILC, 3 cores, belted);114;-;-;1864.0
+Termination (unknown);-;1978;2481;1978.0
+RMU;-;1978;2481;1978.0
+Termination (unknown);-;1978;2481;1978.0
+Cable (PILC, 3 cores, belted);341;-;-;1978.0
+Joint (heat shrink);-;2319;2140;2319.0
+Cable (PILC, 3 cores, belted);94;-;-;2319.0
+Termination (unknown);-;2413;2046;2413.0
+RMU;-;2413;2046;2413.0
+Termination (unknown);-;2413;2046;2413.0
+Cable (PILC, 3 cores, belted);6;-;-;2413.0
+Joint (oil);-;2419;2040;2419.0
+Cable (PILC, 3 cores, belted);101;-;-;2419.0
+Joint (oil);-;2520;1939;2520.0
+Cable (XLPE, 3 cores, common earth screen);257;-;-;2520.0
+Joint (cold shrink);-;2777;1682;2777.0
+Cable (XLPE, 3 cores, common earth screen);45;-;-;2777.0
+Termination (unknown);-;2822;1637;2822.0
+RMU;-;2822;1637;2822.0
+Termination (unknown);-;2822;1637;2822.0
+Cable (XLPE, 3 cores, common earth screen);292;-;-;2822.0
+Joint (oil);-;3114;1345;3114.0
+Cable (PILC, 3 cores, belted);218;-;-;3114.0
+Joint (oil);-;3332;1127;3332.0
+Cable (PILC, 3 cores, belted);283;-;-;3332.0
+Termination (unknown);-;3615;844;3615.0
+RMU;-;3615;844;3615.0
+Termination (unknown);-;3615;844;3615.0
+Cable (XLPE, 3 cores, common earth screen);309;-;-;3615.0
+Joint (heat shrink);-;3924;535;3924.0
+Cable (XLPE, 3 cores, common earth screen);150;-;-;3924.0
+Termination (unknown);-;4074;385;4074.0
+RMU;-;4074;385;4074.0
+Termination (unknown);-;4074;385;4074.0
+Cable (XLPE, 3 cores, common earth screen);120;-;-;4074.0
+Joint (unknown);-;4194;265;4194.0
+Cable (XLPE, 3 cores, common earth screen);104;-;-;4194.0
+Joint (unknown);-;4298;161;4298.0
+Cable (XLPE, 3 cores, common earth screen);156;-;-;4298.0
+Joint (heat shrink);-;4454;5;4454.0
+Cable (PILC, 3 cores, belted);5;-;-;4454.0
+Termination (unknown);-;4459;0;4459.0
+RMU;-;4459;0;4459.0

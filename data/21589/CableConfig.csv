@@ -1,0 +1,28 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;1503;0.0
+Termination (unknown);-;0;1503;0.0
+Cable (XLPE, 3 cores, common earth screen);28;-;-;0.0
+Joint (oil);-;28;1475;28.0
+Cable (PILC, 3 cores, belted);29;-;-;28.0
+Joint (heat shrink);-;57;1446;57.0
+Cable (XLPE, 3 cores, common earth screen);382;-;-;57.0
+Joint (heat shrink);-;439;1064;439.0
+Cable (PILC, 3 cores, belted);55;-;-;439.0
+Joint (heat shrink);-;494;1009;494.0
+Cable (PILC, 3 cores, belted);2;-;-;494.0
+Joint (heat shrink);-;496;1007;496.0
+Cable (PILC, 3 cores, belted);153;-;-;496.0
+Termination (unknown);-;649;854;649.0
+RMU;-;649;854;649.0
+Termination (unknown);-;649;854;649.0
+Cable (PILC, 3 cores, belted);152;-;-;649.0
+Joint (oil);-;801;702;801.0
+Cable (PILC, 3 cores, belted);273;-;-;801.0
+Termination (unknown);-;1074;429;1074.0
+RMU;-;1074;429;1074.0
+Termination (unknown);-;1074;429;1074.0
+Cable (PILC, 3 cores, belted);217;-;-;1074.0
+Joint (heat shrink);-;1291;212;1291.0
+Cable (PILC, 3 cores, belted);212;-;-;1291.0
+Termination (unknown);-;1503;0;1503.0
+RMU;-;1503;0;1503.0

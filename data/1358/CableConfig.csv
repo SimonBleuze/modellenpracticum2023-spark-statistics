@@ -1,0 +1,48 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;3119;0.0
+Termination (unknown);-;0;3119;0.0
+Cable (PILC, 3 cores, belted);317;-;-;0.0
+Joint (oil);-;317.05;2802;317.05
+Cable (PILC, 3 cores, belted);191;-;-;317.05
+Joint (oil);-;508.24;2611;508.24
+Cable (PILC, 3 cores, belted);80;-;-;508.24
+Joint (unknown);-;588.57;2530;588.57
+Cable (PILC, 3 cores, belted);26;-;-;588.57
+Joint (unknown);-;615.3900000000001;2504;615.3900000000001
+Cable (PILC, 3 cores, belted);173;-;-;615.3900000000001
+Joint (oil);-;789.2400000000001;2330;789.2400000000001
+Cable (PILC, 3 cores, belted);170;-;-;789.2400000000001
+Joint (unknown);-;959.3900000000001;2160;959.39
+Cable (XLPE, 3 cores, common earth screen);12;-;-;959.39
+Joint (unknown);-;971.4100000000001;2148;971.41
+Cable (PILC, 3 cores, belted);147;-;-;971.41
+Joint (oil);-;1118.8600000000001;2000;1118.86
+Cable (PILC, 3 cores, belted);335;-;-;1118.86
+Joint (oil);-;1454.6200000000001;1664;1454.62
+Cable (PILC, 3 cores, belted);335;-;-;1454.62
+Joint (oil);-;1790.3300000000002;1329;1790.3300000000004
+Cable (PILC, 3 cores, belted);215;-;-;1790.3300000000004
+Joint (resin);-;2005.66;1113;2005.66
+Cable (PILC, 3 cores, belted);46;-;-;2005.66
+Joint (resin);-;2052.34;1067;2052.34
+Cable (PILC, 3 cores, belted);73;-;-;2052.34
+Joint (oil);-;2126.1600000000003;993;2126.1600000000008
+Cable (PILC, 3 cores, belted);212;-;-;2126.1600000000008
+Joint (resin);-;2338.4000000000005;781;2338.4000000000005
+Cable (PILC, 3 cores, belted);114;-;-;2338.4000000000005
+Joint (resin);-;2452.8900000000003;666;2452.890000000001
+Cable (PILC, 3 cores, belted);62;-;-;2452.890000000001
+Joint (unknown);-;2515.2500000000005;604;2515.2500000000005
+Cable (XLPE, 3 cores, common earth screen);22;-;-;2515.2500000000005
+Joint (unknown);-;2537.3300000000004;582;2537.330000000001
+Cable (PILC, 3 cores, belted);58;-;-;2537.330000000001
+Joint (resin);-;2595.6700000000005;523;2595.6700000000005
+Cable (PILC, 3 cores, belted);347;-;-;2595.6700000000005
+Joint (resin);-;2942.7300000000005;176;2942.7300000000005
+Cable (PILC, 3 cores, belted);52;-;-;2942.7300000000005
+Joint (oil);-;2994.9200000000005;124;2994.9200000000005
+Cable (PILC, 3 cores, belted);117;-;-;2994.9200000000005
+Joint (unknown);-;3112.0700000000006;7;3112.070000000001
+Cable (PILC, 3 cores, belted);7;-;-;3112.070000000001
+Termination (unknown);-;3119.5200000000004;0;3119.5200000000004
+RMU;-;3119.5200000000004;0;3119.5200000000004

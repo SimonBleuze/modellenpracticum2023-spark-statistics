@@ -1,0 +1,18 @@
+Component type;Length (m);Distance to start (m);Distance to end (m);Cumulative length (m)
+RMU;-;0;4213;0.0
+Termination (unknown);-;0;4213;0.0
+Cable (XLPE, 1 core);922;-;-;0.0
+Joint (cold shrink);-;922;3291;922.0
+Cable (XLPE, 1 core);328;-;-;922.0
+Joint (cold shrink);-;1250;2963;1250.0
+Cable (XLPE, 1 core);403;-;-;1250.0
+Joint (cold shrink);-;1653;2560;1653.0
+Cable (XLPE, 1 core);596;-;-;1653.0
+Joint (cold shrink);-;2249;1964;2249.0
+Cable (XLPE, 1 core);299;-;-;2249.0
+Joint (cold shrink);-;2548;1665;2548.0
+Cable (XLPE, 1 core);693;-;-;2548.0
+Joint (cold shrink);-;3241;972;3241.0
+Cable (XLPE, 1 core);972;-;-;3241.0
+Termination (unknown);-;4213;0;4213.0
+RMU;-;4213;0;4213.0
